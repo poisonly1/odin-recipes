@@ -1,0 +1,1 @@
+Simple HTML recipe website; refamiliarizing myself with HTML basics through this project
